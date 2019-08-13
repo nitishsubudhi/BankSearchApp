@@ -1,0 +1,7 @@
+{
+  "name": "BankSearchApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
